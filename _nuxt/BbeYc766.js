@@ -1,0 +1,1 @@
+import{_ as o,c as t,a as s,b as a,F as r,o as c,i as _}from"./BBLsRw-6.js";const l={};function m(p,e){const n=_;return c(),t(r,null,[e[0]||(e[0]=s("div",null,"Roles父組件",-1)),a(n)],64)}const d=o(l,[["render",m]]);export{d as default};

@@ -1,0 +1,1 @@
+import{f as o,g as a,o as s,c as t,t as n,h as r}from"./BBLsRw-6.js";const i=o({__name:"[id]",setup(c){const e=a();return console.log(e.params.id),(p,l)=>(s(),t("h1",null,"ID為"+n(r(e).params.id)+"的課程",1))}});export{i as default};
